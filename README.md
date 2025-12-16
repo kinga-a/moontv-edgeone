@@ -35,7 +35,7 @@
   <img src="public/icons/1.png" alt="项目截图" style="max-width:600px">
   <img src="public/icons/2.png" alt="项目截图" style="max-width:600px">
   <img src="public/icons/3.png" alt="项目截图" style="max-width:600px">
-  <img src="public/icons/5.png" alt="项目截图" style="max-width:600px">
+  <img src="public/icons/4.png" alt="项目截图" style="max-width:600px">
 </details>
 
 ## 🗺 目录
